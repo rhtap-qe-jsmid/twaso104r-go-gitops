@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: twaso104r-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/twaso104r-go-gitops
